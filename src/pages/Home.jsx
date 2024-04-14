@@ -21,7 +21,7 @@ function Home(props) {
                             <div className="col-md-8 col-md-offset-2 text-center">
                                 <div className="display-t js-fullheight">
                                     <div className="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-                                        <div className="profile-thumb" style={{ background: "url(https://avatars.githubusercontent.com/u/63453120?v=4)" }}></div>
+                                        <div className="profile-thumb" style={{ background: "url(https://storage.googleapis.com/chiranjitapp.appspot.com/chiranjit.jpg)" }}></div>
                                         <h1><span>Chiranjit Mandal</span></h1>
                                         <h3><span>Fullstack Developer / AIML</span></h3>
                                         <p />
